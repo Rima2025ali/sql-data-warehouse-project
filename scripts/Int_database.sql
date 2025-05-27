@@ -19,7 +19,7 @@ GO
 IF NOT EXISTS (
     SELECT [name]
         FROM sys.databases
-        WHERE [name] = N'DatabaseName'
+        WHERE [name] = N'DatabaseWarehouse'
 )
 CREATE DATABASE DatabaseWarehouse
 GO
