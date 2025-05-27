@@ -78,7 +78,8 @@ Sure! Here's the same table of contents **without the timestamps** for a cleaner
 * Data Flow
 
 ---
-About Me
+
+### 🔹 About Me
 I'm passionate about data architecture, SQL development, and building scalable data warehouse solutions. With hands-on experience in ETL pipelines, data modeling, and project planning, I enjoy transforming raw data into meaningful insights that drive business decisions.
 
 
